@@ -1,4 +1,4 @@
-package org.example;
+package ma.projet;
 
 /**
  * Hello world!
